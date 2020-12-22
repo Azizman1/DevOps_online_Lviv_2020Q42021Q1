@@ -1,0 +1,22 @@
+11ae2ac HEAD@{0}: merge origin/develop: Fast-forward
+b16845e HEAD@{1}: checkout: moving from develop to main
+fd171d8 HEAD@{2}: merge origin/styles: Merge made by the 'recursive' strategy.
+11ae2ac HEAD@{3}: commit (merge): Configured index.html
+a731612 HEAD@{4}: commit: Configured index.html
+28f7030 HEAD@{5}: pull: Fast-forward
+a485d2e HEAD@{6}: checkout: moving from develop to develop
+a485d2e HEAD@{7}: checkout: moving from styles to develop
+0ed6e1a HEAD@{8}: commit: Add styles
+a485d2e HEAD@{9}: checkout: moving from develop to styles
+a485d2e HEAD@{10}: checkout: moving from images to develop
+681bfe3 HEAD@{11}: commit: Configated index.html
+e1aab9e HEAD@{12}: rebase finished: returning to refs/heads/images
+e1aab9e HEAD@{13}: pull --rebase origin images: Add images in image branch
+e09650c HEAD@{14}: pull --rebase origin images: checkout e09650c7558fa9853e791b82ebf2a1f5a260b786
+812b849 HEAD@{15}: checkout: moving from images to images
+812b849 HEAD@{16}: commit: Add images in image branch
+a485d2e HEAD@{17}: checkout: moving from develop to images
+a485d2e HEAD@{18}: commit: Add index.html
+b16845e HEAD@{19}: checkout: moving from main to develop
+b16845e HEAD@{20}: commit: Add readme.txt
+55a1d23 HEAD@{21}: clone: from https://github.com/Azizman1/Devops_online_Lviv_2020Q42021Q1.git

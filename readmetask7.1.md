@@ -16,3 +16,9 @@ https://raw.githubusercontent.com/Azizman1/DevOps_online_Lviv_2020Q42021Q1/main/
 
 
 Task C:
+
+https://raw.githubusercontent.com/Azizman1/DevOps_online_Lviv_2020Q42021Q1/main/Task%207.1/6.png
+
+https://raw.githubusercontent.com/Azizman1/DevOps_online_Lviv_2020Q42021Q1/main/Task%207.1/7.png
+
+https://raw.githubusercontent.com/Azizman1/DevOps_online_Lviv_2020Q42021Q1/main/Task%207.1/8.png
